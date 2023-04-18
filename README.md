@@ -1,3 +1,6 @@
 # Maths-project
 Journal 9. Applied Maths project<br>
-Truth Table Generator
+<br>Truth Table Generator<br>
+- Created by Kryrlo and Fionn
+
+
